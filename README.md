@@ -5,7 +5,7 @@ Eu sou um Analista de Dados e Business Intelligence com paixão por transformar 
 Com uma sólida formação em análise de dados, sou especializado em coletar, organizar, analisar e visualizar dados complexos de maneira eficiente.
 
 💼 Experiência Profissional:
-- Atuei como Analista de Dados em uma empresa de consultoria no setor de TI, onde desenvolvi soluções de Business Intelligence que contribuíram para o aumento da eficiência operacional e para a otimização do processo de tomada de decisões.
+- Atuei como Analista de Dados Jr em uma empresa de consultoria no setor de TI, onde desenvolvi soluções de Business Intelligence que contribuíram para o aumento da eficiência operacional e para a otimização do processo de tomada de decisões.
 - Colaborei com equipes multifuncionais em projetos de análise de dados, identificando padrões e tendências relevantes para orientar estratégias de negócios e impulsionar o crescimento.
 
 🔧 Habilidades Técnicas:
